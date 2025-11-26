@@ -1,0 +1,7 @@
+Expenses 
+- Rent = 1200
+- Gas  = 100
+- Food = 300
+- Clothing = 250
+- Car payment = 290
+- Misc = 250 
