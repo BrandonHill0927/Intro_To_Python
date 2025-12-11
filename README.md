@@ -2,4 +2,5 @@
 
 * This is where I keep all the coding courses for my Intro to Programming Python course.
    * Each week will have its own branch, which will contain a folder holding all the necessities to ensure each week's work is completed.
+   * This repository is not fully completed as previous assignments have to he added!
 ## Thank you for your time!
